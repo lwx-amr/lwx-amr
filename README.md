@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey there <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm Amr
 
 <!--
 **lwx-amr/lwx-amr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
