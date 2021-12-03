@@ -6,14 +6,15 @@
 
 #### Software Engineer with a passion to build JavaScript Apps and solving problems with C++.
 
-
-
+<br>
+<br>
 <div align="center">
     <img src="https://badges.pufler.dev/years/lwx-amr" alt="Years Badge">
     <img src="https://badges.pufler.dev/repos/lwx-amr" alt="Repos Badge"> 
 </div>
 
-
+<br>
+<br>
 <div  align=center>
     <a href="https://www.linkedin.com/in/amrhussien98">
     	<img src="imgs/in.png" alt="linkedin badge" width="60px">
