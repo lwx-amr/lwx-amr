@@ -1,6 +1,7 @@
-<div>
-    <img src="coding.svg">
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%">
 </div>
+
 
 # Hey there <img src="wave.gif" width="46px">, I'm Amr 👦🏻💻
 
