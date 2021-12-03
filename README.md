@@ -22,7 +22,7 @@
     	<img src="imgs/leetcode.png" width="80px" alt="leetcode logo">
     </a>
     <a href="https://www.hackerrank.com/lwx_amr">
-    	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="100px">
+    	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="80px">
     </a>
     <a href="mailto:amrister20@gmail.com">
     	<img src="imgs/gmail.png" width="100px" alt="gmail mail">
