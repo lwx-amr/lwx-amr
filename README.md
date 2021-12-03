@@ -2,7 +2,7 @@
     <img src="coding.svg">
 </div>
 
-# Hey there <img src="wave.gif" width="60px">, I'm Amr 👦🏻💻
+# Hey there <img src="wave.gif" width="46px">, I'm Amr 👦🏻💻
 
 #### Software Engineer with a passion to build JavaScript Apps and solving problems with C++.
 
