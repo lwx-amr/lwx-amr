@@ -14,8 +14,7 @@
 </div>
 
 
-
-<div style="textAlgin: center">
+<div style="text-align: center;">
     <a href="https://www.linkedin.com/in/amrhussien98" display="inline">
     	<img src="imgs/in.png" alt="linkedin badge" width="80px">
     </a>
@@ -35,6 +34,7 @@
     	<img src="imgs/insta.png" width="80px" alt="instagram logo">
     </a>
 </div>
+
 
 
 
