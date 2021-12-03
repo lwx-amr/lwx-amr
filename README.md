@@ -14,8 +14,8 @@
 </div>
 
 
-<div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/amrhussien98" display="inline">
+<div  align=center>
+    <a href="https://www.linkedin.com/in/amrhussien98">
     	<img src="imgs/in.png" alt="linkedin badge" width="80px">
     </a>
     <a href="https://leetcode.com/lwxamr">
