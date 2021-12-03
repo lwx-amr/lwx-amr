@@ -22,20 +22,19 @@
     	<img src="imgs/leetcode.png" width="80px" alt="leetcode logo">
     </a>
     <a href="https://www.hackerrank.com/lwx_amr">
-    	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="80px">
+    	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="100px">
     </a>
     <a href="mailto:amrister20@gmail.com">
-    	<img src="imgs/gmail.png" width="80px" alt="gmail mail">
+    	<img src="imgs/gmail.png" width="100px" alt="gmail mail">
     </a>
     <a href="https://www.facebook.com/lwxamr">
-    	<img src="imgs/fb.png" alt="facebook logo" width="80px">
+    	<img src="imgs/fb.png" alt="facebook logo" width="64px">
     </a>
     <a href="https://www.instagram.com/amrhussien3">
-    	<img src="imgs/insta.png" width="80px" alt="instagram logo">
+    	<img src="imgs/insta.png" width="64px" alt="instagram logo">
     </a>
 </div>
 
-
-
-
-###### ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwx-amr&layout=compact&theme=dracula)
+<div align="center">   
+    <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwx-amr&layout=compact&theme=dracula"> 
+</div>
