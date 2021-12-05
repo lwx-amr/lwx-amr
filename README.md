@@ -18,13 +18,13 @@
 <br>
 <div  align=center>
     <a href="https://www.linkedin.com/in/amrhussien98">
-    	<img src="imgs/in.png" alt="linkedin badge" width="42px">
+    	<img src="imgs/in.png" alt="linkedin badge" width="52px">
     </a>
     <a href="https://leetcode.com/lwxamr">
-    	<img src="imgs/leetcode.png" width="42px" alt="leetcode logo">
+    	<img src="imgs/leetcode.png" width="52px" alt="leetcode logo">
     </a>
     <a href="https://www.hackerrank.com/lwx_amr">
-    	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="32px">
+    	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="42px">
     </a>
     <a href="mailto:amrister20@gmail.com">
     	<img src="imgs/gmail.png" width="60px" alt="gmail mail">
@@ -36,6 +36,7 @@
     	<img src="imgs/insta.png" width="42px" alt="instagram logo">
     </a>
 </div>
+
 
 
 
