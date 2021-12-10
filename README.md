@@ -4,8 +4,9 @@
 
 # Hey there <img src="wave.gif" width="32px">, I'm Amr 👦🏻💻
 
-#### Software Engineer with a passion to build JavaScript Apps and solving problems with C++.
-
+### 23 Years old Software Engineering and computer science enthusiast with a good knowledge of computer science fundamentals and Web development process.
+### Passionate about building JavaScript Apps and solving problems with C++. 
+<br>
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%">
 </div>
