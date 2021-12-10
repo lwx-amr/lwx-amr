@@ -44,7 +44,7 @@
 # Skills
 
 <p align="center">
-  <code><img height="32" width="32" alt="nodejs" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
+  <img height="32" width="32" alt="nodejs" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 
