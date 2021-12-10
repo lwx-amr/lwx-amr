@@ -1,21 +1,24 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%">
-</div>
+
+
 
 
 # Hey there <img src="wave.gif" width="32px">, I'm Amr 👦🏻💻
 
 #### Software Engineer with a passion to build JavaScript Apps and solving problems with C++.
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%">
+</div>
+
 <br>
-<br>
+
 <div align="center">
     <img src="https://badges.pufler.dev/years/lwx-amr" alt="Years Badge">
     <img src="https://badges.pufler.dev/repos/lwx-amr" alt="Repos Badge"> 
 </div>
+<br>
+<br>
 
-<br>
-<br>
 <div  align=center>
     <a href="https://www.linkedin.com/in/amrhussien98">
     	<img src="imgs/in.png" alt="linkedin badge" width="52px">
@@ -36,10 +39,17 @@
     	<img src="imgs/insta.png" width="42px" alt="instagram logo">
     </a>
 </div>
+<br>
 
+# Skills
 
+<p align="center">
+  <code><img height="32" width="32" alt="nodejs" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></code>
+</p>
 
 
 <div align="center">   
     <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwx-amr&layout=compact&theme=dracula"> 
 </div>
+
+
