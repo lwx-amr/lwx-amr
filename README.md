@@ -2,13 +2,13 @@
 
 
 
-# Hey there <img src="animated_wave.gif" width="32px">, I'm Amr 👦🏻💻
+# Hello there <img src="animated_wave.gif" width="32px">, I'm Amr 👦🏻💻
 
 ### 23 Years old Software Engineering and computer science enthusiast with a good knowledge of computer science fundamentals and web development process.
 ### Passionate about building JavaScript Apps and solving problems with C++. 
 <br>
 <div align="center">
-    <img src="https://media.giphy.com/media/PdNPGYMjpIjBhPesYm/giphy.gif" width="70%">
+    <img src="https://media.giphy.com/media/PdNPGYMjpIjBhPesYm/giphy.gif" width="80%">
 </div>
 
 <br>
