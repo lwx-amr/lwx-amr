@@ -70,7 +70,7 @@
 <br>
 
 ## Projects
-- ### Web
+- ### Web:
     - [RankUp](https://github.com/lwx-amr/RankUp) - *Node.js | Express.js | MongoDB | Docker | JWT | HTML | CSS | JavaScript | React.js | Bootstrap | Sass*
     - [To-DO RESTFUl API](https://github.com/lwx-amr/To-Do-RESTFul-API) - *Node.js*
     - [Simple Online Testing web app](https://github.com/lwx-amr/Online-Testing) - *Node.js |  Express.js | MongoDB |  HTML |  CSS | EJS*
@@ -79,3 +79,8 @@
     - [Simple Exams System](https://github.com/lwx-amr/ExamsSystem) - *Java | JSP | Servlet*
     - [Buono Theme](https://github.com/lwx-amr/Buono-Theme) - *Wordpress*
 
+- ### Machine Learning:
+    - [Sign Language Digits](https://github.com/lwx-amr/sign-language-digits) - *Python | Nueral Networks*
+    - [Classification (Naive Bayes)](https://github.com/lwx-amr/classification) - *Java*
+    - [Clustering (K-Means)](https://github.com/lwx-amr/Clustering) - *Java*
+    - [Apriori Algorithm](https://github.com/lwx-amr/Apriori-Algorithm) - *Java*
