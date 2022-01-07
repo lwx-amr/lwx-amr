@@ -87,7 +87,7 @@
 - ### Core Science:
     - [Algorithms Part 1 (Princeton University)](https://github.com/lwx-amr/AlgorithmsPart1-Princeton) - *Java*
     - [Mini-C Compiler](https://github.com/lwx-amr/Compiler) - *Java*
-    - [Library Management System][https://github.com/lwx-amr/LibraryMS] - *C++*
+    - [Library Management System](https://github.com/lwx-amr/LibraryMS) - *C++*
     - [Fuzzy ToolBox (Genetic Algorithm)](https://github.com/lwx-amr/Fuzzy-Toolbox) - *Java*
     - [Smooth Curve Fitting (Genetic Algorithm)](https://github.com/lwx-amr/SmoothCurveFitting-GA) - *Java*
     - [Knapsack (Genetic Algorithm)](https://github.com/lwx-amr/Knapsack-GA) - *Java*
