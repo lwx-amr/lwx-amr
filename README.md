@@ -72,7 +72,6 @@
     - [RankUp](https://github.com/lwx-amr/RankUp) - *Node.js | Express.js |  React.js | MongoDB | Docker | JWT | Axios | HTML | CSS | JavaScript | Bootstrap | Sass*
     - [To-DO RESTFUl API](https://github.com/lwx-amr/To-Do-RESTFul-API) - *Node.js | Express.js | JWT | Mongodb | Heroku*
     - [Simple Online Testing web app](https://github.com/lwx-amr/Online-Testing) - *Node.js |  Express.js | MongoDB |  HTML |  CSS | EJS*
-    - [Web Scraper](https://github.com/lwx-amr/Web-Scraper) - *Node.js | Puppeteer | MySql*
     - [Portfolio](https://github.com/lwx-amr/Portfolio) - *React.js | HTML | CSS | Tailwind*
     - [Simple Exams System](https://github.com/lwx-amr/ExamsSystem) - *Java | JSP | Servlet*
     - [Buono Theme](https://github.com/lwx-amr/Buono-Theme) - *Wordpress*
