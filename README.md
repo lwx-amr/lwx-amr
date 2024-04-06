@@ -4,7 +4,7 @@
 
 # Hello there <img src="animated_wave.gif" width="32px">, I'm Amr 👦🏻💻
 
-### 24 Years old Software Engineering and computer science enthusiast with a good knowledge of computer science fundamentals and web development process.
+### 25 Years old Software Engineering and computer science enthusiast with a good knowledge of computer science fundamentals and web development process.
 ### Passionate about building JavaScript Apps and solving problems with C++. 
 <br>
 <div align="center">
@@ -32,9 +32,6 @@
     </a>
     <a href="mailto:amrister20@gmail.com">
     	<img src="imgs/gmail.png" width="60px" alt="gmail mail">
-    </a>
-    <a href="https://www.facebook.com/lwxamr">
-    	<img src="imgs/fb.png" alt="facebook logo" width="42px">
     </a>
     <a href="https://www.instagram.com/amrhussien3">
     	<img src="imgs/insta.png" width="42px" alt="instagram logo">
