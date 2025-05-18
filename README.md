@@ -30,11 +30,8 @@
     <a href="https://www.hackerrank.com/lwx_amr">
     	<img src="imgs/hacker-rank.png" alt="hacker rank logo" width="42px">
     </a>
-    <a href="mailto:amrister20@gmail.com">
+    <a href="mailto:amrhusmohamed@gmail.com">
     	<img src="imgs/gmail.png" width="60px" alt="gmail mail">
-    </a>
-    <a href="https://www.instagram.com/amrhussien3">
-    	<img src="imgs/insta.png" width="42px" alt="instagram logo">
     </a>
 </div>
 <br>
